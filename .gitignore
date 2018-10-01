@@ -1,0 +1,5 @@
+/dep
+
+*.o
+Template_Makefile_AVR
+Makefile1
