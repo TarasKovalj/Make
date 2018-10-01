@@ -11,4 +11,4 @@ inc1.o: inc1.c
 	gcc -c inc1.c
 
 clean: 
-	rm -rf *.o L3E2
+	rm inc1.o L3_Ex2.o
